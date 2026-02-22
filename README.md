@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi, I'm GenboxSDK 👋
 
-<!--
-**genboxsdk/genboxsdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Interested in Python, AI and Machine Learning   
+💻 Currently learning and working Git & GitHub  
+🎯 Preparing for competitive exams and building technical skills  
 
-Here are some ideas to get you started:
+## 🧠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Analytics & Machine Learning
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- Exploratory Data Analysis (EDA)
+- Statistical Modeling
+- Machine Learning Fundamentals
+- MySQL
+- Power BI
+- Tableau
+
+### 💻 Tools & Software
+- Microsoft Excel
+- PowerPoint
+- Tally ERP 9.0 / 7.2
+- Linux / Windows
+- LIMS (Laboratory Information Management Systems)
+
+### 🧪 Domain Expertise
+- Analytical Chemistry (HPLC, TLC, CC, PC)
+- Quality Control Data Analysis
+- Cheminformatics
+- Laboratory Data Handling
+
+## 📈 Currently Exploring
+- Advanced Machine Learning
+- Model Deployment
+- Data Engineering Fundamentals
+- Git & Version Control
+- Chemoinformatics libraries (RDKit – upcoming)
+- Molecular descriptor analysis
+- Data-driven QC automation
+
+## Contact
+📧 Email:
+🔗 LinkedIn:
+
+⭐ Feel free to explore my repositories and connect with me!
+⭐ Open to collaborations in Data Science, Cheminformatics, and Research Analytics.
